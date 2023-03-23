@@ -2,10 +2,12 @@
 ** Name: Jenya Botyanovski
 ** Email: e.botyanovsky@gmail.com
 ** Location: Belarus
-** Eanglish level: A1
 ** Military service: liable
 ## Contacts
-** Phone: +375 297676939
-** Telegram: jenyabtnvski
+__ Phone: +375 297676939
+__ Telegram: jenyabtnvski
+## Languages
+__ Russian - Native
+__ Eanglish level: A1
 ## RS Courses
 JavaScript/Front-end 2023Q1
